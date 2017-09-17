@@ -1,3 +1,15 @@
 p {
     color: red;
+    align-self: center;
+    align-content: center;
+}
+
+table {
+    width: 100%;
+    align-content: center;
+}
+
+img {
+    width: 128;
+    height: 128;
 }
