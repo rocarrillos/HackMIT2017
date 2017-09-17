@@ -1,15 +1,25 @@
 p {
     color: red;
-    align-self: center;
-    align-content: center;
+    align-items: center;
+    text-align: center;
 }
 
-table {
+body {
     width: 100%;
-    align-content: center;
+    text-align: center;
+    background-color: powderblue;
+    align-self: center;
 }
+
+
 
 img {
     width: 128;
     height: 128;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: wheat;
+    width: 100%;
 }
